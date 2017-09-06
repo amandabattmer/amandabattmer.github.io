@@ -5,6 +5,6 @@
 
 ### Digital Imaging Project
 
-Banner Image:
+Banner Image: Banner image.jpg
 
 
