@@ -14,3 +14,5 @@ Part 2 Images: ![part 2 image](https://user-images.githubusercontent.com/3125488
 ![img_0720](https://user-images.githubusercontent.com/31254880/30245172-e6804dae-9596-11e7-8bc1-09fab68fc74b.jpg)
 ![img_0951](https://user-images.githubusercontent.com/31254880/30245174-fa9de346-9596-11e7-8971-9d9e6081df5d.jpg)
 
+Images after peer review:![banner 2](https://user-images.githubusercontent.com/31254880/30252684-9a2ed62c-963c-11e7-915a-dd4abe843091.jpg)
+![final project icon](https://user-images.githubusercontent.com/31254880/30252687-a6c151a8-963c-11e7-80ef-bb2c4f4ddbbb.png)
