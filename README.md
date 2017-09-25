@@ -10,6 +10,8 @@
 Audio Project:
 https://raw.githubusercontent.com/amandabattmer/Audio/master/Audio%20Project.mp3?raw=true
 
+<audio src="https://raw.githubusercontent.com/amandabattmer/Audio/master/Audio%20Project.mp3" controls preload></audio>
+
 <audio src="audio.mp3" controls preload></audio>
 
 Banner Image: ![banner image](https://user-images.githubusercontent.com/31254880/30089094-4598f75c-9270-11e7-9067-a983337c16b5.jpg)
