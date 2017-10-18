@@ -7,6 +7,8 @@
 
 ### Digital Imaging Project
 
+Video Project: amandabattmer.github.io/4361 video project - converted with Clipchamp.mp4
+
 Audio Project:
 https://raw.githubusercontent.com/amandabattmer/Audio/master/Audio%20Project.mp3?raw=true
 
